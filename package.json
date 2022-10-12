@@ -4,7 +4,7 @@
   "description": "igb2b e2e test automation",
   "main": "igb2b.conf.js",
   "devDependencies": {
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "axios": "^0.19.0",
     "express": "^4.15.2",
     "jasmine-spec-reporter": "^4.2.1",
